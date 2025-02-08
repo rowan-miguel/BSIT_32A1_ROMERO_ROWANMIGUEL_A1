@@ -1,0 +1,30 @@
+.navbar-custom {
+    background-color: black;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+#home {
+    background-color: #FFFAA0;
+    padding: 50px 0;
+}
+
+h1, h2, h3 {
+    color: black;
+}
+#home button{
+    background-color: mintcream;
+    
+}
+#contact button{
+    background-color: mintcream;
+    color: black;
+    
+}
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
